@@ -10,4 +10,3 @@ class Message < ApplicationRecord
   end
 end
 
-# mmm
